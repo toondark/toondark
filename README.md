@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! 👋 I'm a passionate beginner full stack software (looking for be a solid JR developer) developer eager to dive into exciting projects within the tech industry. <br>💻🌟 With basic skills in web and app development, I thrive on exploring new technologies and learning from every challenge I encounter. <br>💡 My goal is to contribute my creativity and knowledge to craft innovative solutions that drive the digital future. Connect with me, and let's build something amazing together! 🚀<br><br><br><br>
-![](https://images.app.goo.gl/rQ9UGYofFNzpsRxr5)
+![](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp)
 
 
 # 💻 Tech Stack:
